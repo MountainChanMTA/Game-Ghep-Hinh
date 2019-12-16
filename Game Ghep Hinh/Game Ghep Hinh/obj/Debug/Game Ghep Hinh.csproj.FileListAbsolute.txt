@@ -1,0 +1,11 @@
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\bin\Debug\Game Ghep Hinh.exe.config
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\bin\Debug\Game Ghep Hinh.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\bin\Debug\Game Ghep Hinh.pdb
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game_Ghep_Hinh.Form1.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game_Ghep_Hinh.Properties.Resources.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game Ghep Hinh.csproj.GenerateResource.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game Ghep Hinh.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game Ghep Hinh.pdb
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game Ghep Hinh.csprojResolveAssemblyReference.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Interop.WMPLib.dll
+E:\TAI LIEU MON HOC\Visual C#\Game Ghep Hinh\Game Ghep Hinh\obj\Debug\Game Ghep Hinh.csproj.ResolveComReference.cache
